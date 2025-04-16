@@ -373,10 +373,9 @@ CHAPTER 4
 Implementation and Result
 
 4.1	 Snap Shots of Result:
- ![alt text](image.png)
+![alt text](image.png)
 ![alt text](image-1.png)
- ![alt text](image-2.png)
-
+![alt text](image-2.png)
  
 
 4.2	GitHub Link for Code:
